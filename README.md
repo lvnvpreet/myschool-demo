@@ -1,4 +1,5 @@
 # myschool-demo
 This is my demo repository.
 <br>
-Author - Lovepreet Singh
+Author - Lovepreet Singh (myschool-demo)
+
