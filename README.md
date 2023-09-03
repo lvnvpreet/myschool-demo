@@ -1,3 +1,4 @@
 # myschool-demo
-This is my demo repository
+This is my demo repository.
+<br>
 Author - Lovepreet Singh
